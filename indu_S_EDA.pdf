@@ -1,0 +1,201 @@
+CustomerID,CustomerName,Region,SignupDate,Year,Month,CumulativeSignups
+C0118,Jacob Holt,South America,2022-01-22,2022,1,1
+C0079,Brian Murillo,North America,2022-02-02,2022,2,2
+C0104,Laura Bennett,South America,2022-02-10,2022,2,3
+C0002,Elizabeth Lutz,Asia,2022-02-13,2022,2,4
+C0166,John Rogers,Europe,2022-02-13,2022,2,5
+C0134,Theresa Gonzalez,Asia,2022-02-19,2022,2,6
+C0045,Michael Williams,Asia,2022-02-25,2022,2,7
+C0198,Rebecca Ray,Europe,2022-02-27,2022,2,8
+C0023,Nicholas Cain,Europe,2022-03-04,2022,3,9
+C0040,Michael Harrell,Asia,2022-03-07,2022,3,10
+C0161,Jessica Warren,Asia,2022-03-14,2022,3,11
+C0139,Ricky Gutierrez,North America,2022-03-14,2022,3,12
+C0070,Timothy Perez,Europe,2022-03-15,2022,3,13
+C0153,Justin Smith,South America,2022-03-20,2022,3,14
+C0176,Nicole Booth,North America,2022-03-23,2022,3,15
+C0162,Edwin Watson,Asia,2022-03-29,2022,3,16
+C0160,Jodi Cook,North America,2022-04-05,2022,4,17
+C0083,Christina Stark,South America,2022-04-07,2022,4,18
+C0165,Juan Mcdaniel,South America,2022-04-09,2022,4,19
+C0175,Matthew Johnson,Asia,2022-04-16,2022,4,20
+C0038,Jeffrey Perkins,North America,2022-04-16,2022,4,21
+C0029,Erin Manning,North America,2022-04-16,2022,4,22
+C0152,Justin Evans,South America,2022-04-19,2022,4,23
+C0060,James Murphy,Europe,2022-04-22,2022,4,24
+C0122,Corey Ruiz,North America,2022-05-06,2022,5,25
+C0109,Abigail Jones,North America,2022-05-09,2022,5,26
+C0082,Aimee Taylor,South America,2022-05-13,2022,5,27
+C0184,Tina Jacobs,South America,2022-05-13,2022,5,28
+C0103,Jennifer Munoz,Europe,2022-05-15,2022,5,29
+C0147,Hunter Fuller,South America,2022-05-16,2022,5,30
+C0188,Anna Ball,South America,2022-05-17,2022,5,31
+C0074,Jonathan Russo,Europe,2022-05-27,2022,5,32
+C0131,Scott Wilson,North America,2022-06-05,2022,6,33
+C0196,Laura Watts,Europe,2022-06-07,2022,6,34
+C0113,Joseph Ortiz Jr.,South America,2022-06-17,2022,6,35
+C0007,Paul Graves,Asia,2022-06-18,2022,6,36
+C0053,Albert Burke,Europe,2022-06-18,2022,6,37
+C0071,Taylor Murphy,South America,2022-07-01,2022,7,38
+C0025,Gregory Odom,South America,2022-07-04,2022,7,39
+C0112,Brian Adkins,South America,2022-07-07,2022,7,40
+C0001,Lawrence Carroll,South America,2022-07-10,2022,7,41
+C0159,Austin Miller,Asia,2022-08-06,2022,8,42
+C0005,Laura Weber,Asia,2022-08-15,2022,8,43
+C0073,Heidi Johnson,Europe,2022-08-20,2022,8,44
+C0135,Toni Weaver,Europe,2022-08-23,2022,8,45
+C0150,Angela Williams,South America,2022-09-13,2022,9,46
+C0192,Sarah Arias,South America,2022-09-15,2022,9,47
+C0102,Michael Atkinson,South America,2022-09-16,2022,9,48
+C0086,Stephanie Peterson,Europe,2022-09-18,2022,9,49
+C0106,Amanda Mcguire,Asia,2022-09-22,2022,9,50
+C0108,David Davis,South America,2022-09-28,2022,9,51
+C0173,Francisco Young,Asia,2022-10-06,2022,10,52
+C0004,Kathleen Rodriguez,South America,2022-10-09,2022,10,53
+C0179,Donald Miller,Europe,2022-10-16,2022,10,54
+C0174,Tracy Steele,South America,2022-11-03,2022,11,55
+C0027,Justin Heath,Asia,2022-11-09,2022,11,56
+C0096,Benjamin Mcclure,South America,2022-11-18,2022,11,57
+C0199,Andrea Jenkins,Europe,2022-12-03,2022,12,58
+C0011,Bryan Mathews,South America,2022-12-12,2022,12,59
+C0168,Karen Clements MD,South America,2022-12-13,2022,12,60
+C0062,Jeffery Hartman,Europe,2022-12-14,2022,12,61
+C0010,Aaron Cox,Europe,2022-12-15,2022,12,62
+C0171,Michael Cowan,South America,2022-12-16,2022,12,63
+C0125,Nicholas Taylor,North America,2022-12-18,2022,12,64
+C0019,Brandon Rodriguez,Europe,2023-01-12,2023,1,65
+C0145,Wayne Stone,Asia,2023-01-13,2023,1,66
+C0120,Francisco Diaz,South America,2023-01-13,2023,1,67
+C0149,Tina Wilson,Europe,2023-01-21,2023,1,68
+C0099,Rodney Eaton,South America,2023-01-29,2023,1,69
+C0132,Lisa Jackson,Europe,2023-02-01,2023,2,70
+C0193,Douglas Torres,Asia,2023-02-03,2023,2,71
+C0037,Linda Smith,Europe,2023-02-04,2023,2,72
+C0043,Sandy Short MD,Asia,2023-02-05,2023,2,73
+C0107,Dana Cantrell,South America,2023-02-07,2023,2,74
+C0141,Paul Parsons,Europe,2023-02-23,2023,2,75
+C0095,William Walker,South America,2023-03-04,2023,3,76
+C0061,Brandon Escobar,Europe,2023-03-06,2023,3,77
+C0133,Gwendolyn Carter,South America,2023-03-11,2023,3,78
+C0042,Heather Riley,North America,2023-03-15,2023,3,79
+C0091,Lisa Kirk,South America,2023-03-16,2023,3,80
+C0100,Clinton Gomez,Europe,2023-03-16,2023,3,81
+C0197,Christina Harvey,Europe,2023-03-21,2023,3,82
+C0155,Michelle Brown,South America,2023-03-23,2023,3,83
+C0068,Mark Cox,North America,2023-04-04,2023,4,84
+C0158,Wendy Browning,South America,2023-04-12,2023,4,85
+C0169,Jennifer Shaw,South America,2023-04-13,2023,4,86
+C0148,Matthew Rogers,South America,2023-04-16,2023,4,87
+C0021,Robert Blanchard,Asia,2023-04-17,2023,4,88
+C0130,Robert Jones,South America,2023-04-19,2023,4,89
+C0075,Misty Higgins,Europe,2023-05-01,2023,5,90
+C0088,Carlos Murray,Asia,2023-05-14,2023,5,91
+C0128,Henry Leach,Asia,2023-05-29,2023,5,92
+C0164,Morgan Perez,Europe,2023-06-01,2023,6,93
+C0163,Tiffany Cain,South America,2023-06-08,2023,6,94
+C0200,Kelly Cross,Asia,2023-06-11,2023,6,95
+C0140,Gregory Estrada,Asia,2023-07-01,2023,7,96
+C0067,Carl Gonzalez,North America,2023-07-06,2023,7,97
+C0121,Mark Atkinson,Europe,2023-07-23,2023,7,98
+C0009,Joy Clark,Europe,2023-08-14,2023,8,99
+C0156,William Adams,North America,2023-08-19,2023,8,100
+C0170,Logan Harris,Europe,2023-09-13,2023,9,101
+C0094,Emily Trevino,North America,2023-09-16,2023,9,102
+C0034,Dalton Perez,North America,2023-09-27,2023,9,103
+C0101,Kelsey Roberts,Asia,2023-09-30,2023,9,104
+C0186,Amber Alexander,Asia,2023-10-11,2023,10,105
+C0185,Kathleen Logan,North America,2023-10-17,2023,10,106
+C0090,Charles Hamilton,Asia,2023-10-17,2023,10,107
+C0077,Scott Sims,South America,2023-10-18,2023,10,108
+C0064,Martha Montgomery,Europe,2023-10-22,2023,10,109
+C0180,Amy Carpenter,Asia,2023-10-25,2023,10,110
+C0022,Teresa Esparza,Asia,2023-10-27,2023,10,111
+C0123,Jason Johnston,Asia,2023-11-05,2023,11,112
+C0119,David Armstrong,Europe,2023-11-13,2023,11,113
+C0181,Alexander Barker,South America,2023-11-16,2023,11,114
+C0178,Carol Williams,Asia,2023-11-19,2023,11,115
+C0015,Tina Duran,North America,2023-11-20,2023,11,116
+C0069,Stacy Foster,Europe,2023-12-03,2023,12,117
+C0017,Jennifer King,Europe,2023-12-05,2023,12,118
+C0097,Tina Ford,Asia,2023-12-18,2023,12,119
+C0051,Nicholas Ellis,Europe,2023-12-21,2023,12,120
+C0041,Lindsey Deleon,Europe,2023-12-27,2023,12,121
+C0016,Emily Woods,North America,2024-01-03,2024,1,122
+C0006,Brittany Palmer,South America,2024-01-07,2024,1,123
+C0008,David Li,North America,2024-01-13,2024,1,124
+C0189,Sherri Dixon,North America,2024-01-22,2024,1,125
+C0183,Kimberly Johnson,North America,2024-01-23,2024,1,126
+C0167,Brandy Welch,Europe,2024-01-27,2024,1,127
+C0058,Zachary Turner,North America,2024-01-28,2024,1,128
+C0030,Mark Brock,North America,2024-01-30,2024,1,129
+C0157,Miguel Wong,North America,2024-01-30,2024,1,130
+C0024,Michele Cooley,North America,2024-02-05,2024,2,131
+C0063,Wayne Ferguson,Europe,2024-02-05,2024,2,132
+C0080,David Gonzalez,Asia,2024-02-07,2024,2,133
+C0142,Nicole Long DVM,Asia,2024-02-08,2024,2,134
+C0076,Emily Roberts,South America,2024-02-11,2024,2,135
+C0052,Stanley Aguirre,South America,2024-02-20,2024,2,136
+C0126,Caitlin Brown,South America,2024-02-20,2024,2,137
+C0081,Kimberly Turner,Europe,2024-02-24,2024,2,138
+C0050,Ryan Davis,North America,2024-03-02,2024,3,139
+C0003,Michael Rivera,South America,2024-03-07,2024,3,140
+C0136,Kristen Holder,Asia,2024-03-14,2024,3,141
+C0047,Samantha Frank,North America,2024-03-22,2024,3,142
+C0089,Paul Carter,Europe,2024-04-02,2024,4,143
+C0127,Kathryn Stevens,Europe,2024-04-04,2024,4,144
+C0191,Samantha Gibson DVM,South America,2024-04-07,2024,4,145
+C0059,Mrs. Kimberly Wright,North America,2024-04-07,2024,4,146
+C0137,Robert Gardner,South America,2024-04-09,2024,4,147
+C0087,Travis Campbell,South America,2024-04-11,2024,4,148
+C0031,Tina Miller,South America,2024-04-11,2024,4,149
+C0056,Erika Fernandez,Asia,2024-04-12,2024,4,150
+C0129,Marcus Livingston,South America,2024-04-14,2024,4,151
+C0032,Dustin Campbell,South America,2024-04-17,2024,4,152
+C0026,Sara Miller,North America,2024-05-03,2024,5,153
+C0194,Stacy Cook,North America,2024-05-04,2024,5,154
+C0013,Lauren Buchanan,South America,2024-05-19,2024,5,155
+C0143,Brian Parker,Asia,2024-05-27,2024,5,156
+C0092,Jacqueline Zamora,Asia,2024-05-29,2024,5,157
+C0190,Alexander Lowe,South America,2024-05-31,2024,5,158
+C0177,Julia Kelly,Asia,2024-06-01,2024,6,159
+C0020,Mr. Manuel Conway,North America,2024-06-11,2024,6,160
+C0014,Deborah Wilcox,Europe,2024-06-22,2024,6,161
+C0028,Jennifer Pena,Asia,2024-06-29,2024,6,162
+C0036,Brian Aguilar DDS,North America,2024-07-06,2024,7,163
+C0044,Kenneth Alexander,Europe,2024-07-10,2024,7,164
+C0065,Gerald Hines,North America,2024-07-10,2024,7,165
+C0093,Nancy Walker,Asia,2024-07-13,2024,7,166
+C0072,Sarah Scott,North America,2024-07-24,2024,7,167
+C0057,Elizabeth Nguyen,Europe,2024-07-27,2024,7,168
+C0187,Kayla Kelly,South America,2024-08-02,2024,8,169
+C0033,Tyler Holt,North America,2024-08-04,2024,8,170
+C0012,Kevin May,South America,2024-08-07,2024,8,171
+C0124,Lindsay Perez,Europe,2024-08-26,2024,8,172
+C0146,Brittany Harvey,Asia,2024-09-04,2024,9,173
+C0172,Jamie Webb,Europe,2024-09-09,2024,9,174
+C0116,James Martinez,North America,2024-09-11,2024,9,175
+C0195,Jeremy Mclaughlin,South America,2024-09-17,2024,9,176
+C0084,Belinda Garner,Asia,2024-09-17,2024,9,177
+C0049,Jason Yates,North America,2024-09-18,2024,9,178
+C0018,Tyler Haynes,North America,2024-09-21,2024,9,179
+C0110,Elizabeth Wells,Asia,2024-09-21,2024,9,180
+C0085,Richard Brown,South America,2024-09-22,2024,9,181
+C0054,Bruce Rhodes,Asia,2024-09-29,2024,9,182
+C0144,Andrea Hart,North America,2024-09-30,2024,9,183
+C0035,Brianna Richardson,North America,2024-10-01,2024,10,184
+C0039,Angela Harris,South America,2024-10-13,2024,10,185
+C0098,Laura Gilbert,North America,2024-10-21,2024,10,186
+C0046,Beth Cardenas,North America,2024-10-23,2024,10,187
+C0154,Robert Sharp,North America,2024-10-27,2024,10,188
+C0138,Cynthia Clayton,Asia,2024-11-01,2024,11,189
+C0048,Matthew Park,South America,2024-11-07,2024,11,190
+C0055,Lauren Williams,North America,2024-11-11,2024,11,191
+C0105,Ryan Hampton,Europe,2024-11-11,2024,11,192
+C0115,Joshua Hamilton,Asia,2024-11-11,2024,11,193
+C0111,Roger David,Europe,2024-11-13,2024,11,194
+C0078,Julia Palmer,Asia,2024-11-13,2024,11,195
+C0066,Catherine White,Europe,2024-11-15,2024,11,196
+C0114,Benjamin Anderson,Europe,2024-11-18,2024,11,197
+C0151,Amber Gonzalez,South America,2024-11-22,2024,11,198
+C0117,Jeffrey Mcmahon,North America,2024-11-22,2024,11,199
+C0182,Joshua Preston,Europe,2024-12-28,2024,12,200
